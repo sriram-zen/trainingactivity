@@ -1,21 +1,13 @@
-.container{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-h1 {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+h1
+{
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 3em;
-    border-bottom: 2px solid pink;
-    text-align: center;
+    border-bottom: 2px solid green;
+    text-align: right;
 }
-img {
-    width: 400px;
-    height: 300px;
-    margin: 10px;
-    transition: all 1s;
-}
-
-img:hover {
-    transform: scale(1.1);
+.col
+{
+    background-color: gray;
+    border-color: 2px solid black;
 }
