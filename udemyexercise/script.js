@@ -92,7 +92,7 @@ signIn(userNamePrompt, passwordPrompt);
 // }
 
 
-//DO
+// DO
 // var counterTwo = 10;
 // do {
 //     console.log("do while", counterTwo);
